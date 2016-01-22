@@ -1,9 +1,7 @@
 .ember-image-drop {
-  height: 300px;
-  width: 300px;
-  background: transparent;
-  background-size: cover;
-  border: 5px dashed #ECF0F1;
+  background-color:#FAFAFA; 
+  border:1px solid #C9C9C9; 
+  text-align: center;
   position: relative;
 }
 
@@ -15,11 +13,11 @@
 }
 
 .ember-image-drop p.placeholder {
-  font-size: 2em;
+  font-size: 12px;
 }
 
 .ember-image-drop p.help-text {
-  font-size: 0.9em;
+  font-size: 12px;
 }
 
 .ember-image-drop .text {
